@@ -113,7 +113,7 @@ content:
           - I was mainly on the field, either in France or abroad, learning on special machines in process industry.
           
   - title: Education # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: University of Poitiers
