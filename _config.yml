@@ -119,19 +119,16 @@ content:
         title: University of Poitiers
         caption: 2005 - 2008
         sub_title: MSc in Industrial Automation & mecatronic
-        description: | # this will include new lines to allow paragraphs
 
       - layout: left
         title: University of Lorient
         caption: 2003 - 2005
         sub_title: BTEC in Industrial Maintenance
-        description: | # this will include new lines to allow paragraphs
 
       - layout: left
         title: High School A.R. Lesage in Vannes
         caption: 2003
         sub_title: BD In Mechanical Engineering
-        description: | # this will include new lines to allow paragraphs
 
   - title: A Little More About Me
     layout: text
