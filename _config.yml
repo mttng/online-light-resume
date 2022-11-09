@@ -127,20 +127,20 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: University of Poitiers
         caption: 2005 - 2008
-        sub_title: MSc in Industrial Automation & mecatronic
+        sub_title: MSc Industrial Automation & mecatronic
 
       - layout: top-middle
         title: University of Lorient
         caption: 2003 - 2005
-        sub_title: BTEC in Industrial Maintenance
+        sub_title: BTEC Industrial Maintenance
 
       - layout: top-middle
-        title: High School A.R. Lesage in Vannes
+        title: High School in Vannes
         caption: 2003
-        sub_title: BD In Mechanical Engineering
+        sub_title: BD Mechanical Engineering
 
   - title: A Little More About Me
     layout: text
