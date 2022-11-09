@@ -32,12 +32,9 @@ linkedin_username: mttng
 
 # Additional icon links
 additional_links:
-- title: Website
-  icon: fas fa-globe
-  url: https://cv.tanguym.eu/
 - title: Full Resume
   icon: fas fa-list
-  url: https://cv.tanguym.eu
+  url: '"https://www.youraddress.com","_self"'
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
