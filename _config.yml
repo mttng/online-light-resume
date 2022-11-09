@@ -132,12 +132,12 @@ content:
         caption: 2005 - 2008
         sub_title: MSc Industrial Automation & mecatronic
 
-      - layout: top-middle
+      - layout: left
         title: University of Lorient
         caption: 2003 - 2005
         sub_title: BTEC Industrial Maintenance
 
-      - layout: top-middle
+      - layout: left
         title: High School in Vannes
         caption: 2003
         sub_title: BD Mechanical Engineering
