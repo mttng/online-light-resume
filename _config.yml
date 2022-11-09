@@ -109,34 +109,35 @@ content:
           - Worked as automation & adjuster technician.
           - I was mainly on the field, either in France or abroad, learning on special machines in process industry.
 
-  - title: Education # Title for the section
-    layout: text # Type of content section (list/text)
-    content: | # this will include new lines to allow paragraphs
-      ### University of Poitiers
-      #### caption: 2005 - 2008
-      ##### sub_title: MSc in Industrial Automation & mecatronic
+  # - title: Education # Title for the section
+  #   layout: text # Type of content section (list/text)
+  #   content: | # this will include new lines to allow paragraphs
+  #     ### University of Poitiers
+  #     #### caption: 2005 - 2008
+  #     ##### sub_title: MSc in Industrial Automation & mecatronic
 
-      ### University of Lorient
-      ### 2003 - 2005
-      ###### BTEC in Industrial Maintenance
+  #     ### University of Lorient
+  #     ### 2003 - 2005
+  #     ###### BTEC in Industrial Maintenance
 
-      ### High School A.R. Lesage in Vannes
-      #### 2003
-      ##### BD In Mechanical Engineering          
+  #     ### High School A.R. Lesage in Vannes
+  #     #### 2003
+  #     ##### BD In Mechanical Engineering        
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: University of Poitiers
         caption: 2005 - 2008
         sub_title: MSc in Industrial Automation & mecatronic
 
-      - layout: left
+      - layout: top-middle
         title: University of Lorient
         caption: 2003 - 2005
         sub_title: BTEC in Industrial Maintenance
 
-      - layout: left
+      - layout: top-middle
         title: High School A.R. Lesage in Vannes
         caption: 2003
         sub_title: BD In Mechanical Engineering
