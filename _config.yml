@@ -34,7 +34,7 @@ linkedin_username: mttng
 additional_links:
 - title: Full Resume
   icon: fas fa-list
-  url: '"https://www.youraddress.com","_self"'
+  url: https://cv.tanguym.eu
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -108,7 +108,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Worked as automation & adjuster technician.
           - I was mainly on the field, either in France or abroad, learning on special machines in process industry.
-          
+
+  - title: Education # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      ### University of Poitiers
+      #### caption: 2005 - 2008
+      ##### sub_title: MSc in Industrial Automation & mecatronic
+
+      ### University of Lorient
+      ### 2003 - 2005
+      ###### BTEC in Industrial Maintenance
+
+      ### High School A.R. Lesage in Vannes
+      #### 2003
+      ##### BD In Mechanical Engineering          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
