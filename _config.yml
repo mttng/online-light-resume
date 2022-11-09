@@ -32,7 +32,7 @@ linkedin_username: mttng
 
 # Additional icon links
 additional_links:
-- title: Full Resume
+- title: Full version
   icon: fas fa-list
   url: https://cv.tanguym.eu
 # - title: another link
