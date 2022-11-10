@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Mathieu Tanguy
-title: Mecatronic Engineer
+title: Mechatronics Engineer
 email: mathieu@tanguym.eu
 address: 11 rue Saint Michel, 44260 Savenay FRANCE
 # website: https://mttng.github.io/online-resume/
@@ -52,17 +52,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a mecatronic engineer with over 14 years experience in industrial automation.
+  I'm a mechatronics engineer with over 14 years' experience in industrial automation.
   <br>
   I like to work on challenging projects, independently, or as a team member.
   <br>
-  Being curious and creative help me to push my limits everyday.
+  Being curious and creative help me to push my limits every day.
   My willingness to help and understand customer or colleague needs brings good working relationships based on trust.
   <br>
-  My position as technical office manager enforces my links with sales department and help me to improve soft skills like scheduling, priorisation or strategic decision-making.
+  My position as technical office manager enforces my links with sales department and help me to improve soft skills like scheduling, prioritization, or strategic decision-making.
   <br>
-  Thanks to my experience working for an innovative supplier, I developped knowledges on many solutions in different industries of industrial automation.
-  Even though I'm most skilled in:
+  Thanks to my experience working for an innovative supplier, I developed knowledges on many solutions in different industries of industrial automation, even though, I’m more skilled in:
   <br>
   <mark>Software architecture</mark> <mark>Motion control</mark> <mark>CNC</mark> <mark>Robotic</mark> <mark>IEC 61131-3</mark>
 
@@ -102,7 +101,7 @@ content:
         caption: Sept - Dec 2009 (Eggelsberg, AT)
         description: | # this will include new lines to allow paragraphs
           - Attended an engineering camp among talented young people coming from all over the world.
-          - I took the opportunity to perfect my knowledge in industrial automation while improving my english.
+          - I took the opportunity to perfect my knowledge in industrial automation while improving my English.
       - layout: left
         title: TECNAL S.A.
         link: https://www.tecnal.fr/en/home/
@@ -151,9 +150,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Sports (Running, Mountain Bike, SUP)
       <br>
-      - Music (Concet, Festival)
+      - Music (Concert, Festival)
       <br>
-      - Domotics and IoT, brings me some basis knowledges on several domains like: 
+      - Home automation and IoT, brings me some basis knowledges on several technologies like: 
       <br>
       <mark>Linux</mark> <mark>HTML</mark> <mark>Javascript</mark> <mark>Php</mark> <mark>Docker</mark> <mark>MQTT</mark> <mark>Git</mark> <mark>SQL</mark> 
 
