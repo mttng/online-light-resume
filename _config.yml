@@ -56,12 +56,12 @@ about_content: | # this will include new lines to allow paragraphs
   <br>
   I like to work on challenging projects, independently, or as a team member.
   <br>
-  Being curious, creative help me to push my limits and improve my knowledge everyday.
+  Being curious and creative help me to push my limits everyday.
   My willingness to help and understand customer or colleague needs brings good working relationships based on trust.
   <br>
-  Since 4 years, I work as a technical office manager for B&R Automation.
+  My position as technical office manager enforce my relationship with sales department and help me to improve soft skills like scheduling, priorisation or strategic decision-making.
   <br>
-  Thanks to my experience working for an innovative supplier, I have a good overview on almost every domain of industrial automation.
+  Thanks to my experience working for an innovative supplier, I developped knowledges on many solutions in different industries of industrial automation.
   Even though I'm most skilled in:
   <br>
   <mark>Software architecture</mark> <mark>Motion control</mark> <mark>CNC</mark> <mark>Robotic</mark> <mark>IEC 61131-3</mark>
@@ -149,14 +149,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Sports (Running, Mountain Bike, SUP)
+      - Sports (Running, Mountain Bike, SUP)
       <br>
-      Music (Concet, Festival)
+      - Music (Concet, Festival)
       <br>
-      Domotics and IoT, brings me some basis knowledges on several domains like: 
+      - Domotics and IoT, brings me some basis knowledges on several domains like: 
       <br>
       <mark>Linux</mark> <mark>HTML</mark> <mark>Javascript</mark> <mark>Php</mark> <mark>Docker</mark> <mark>MQTT</mark> <mark>Git</mark> <mark>SQL</mark> 
-      <br>
 
 # Footer
 footer_show_references: false
