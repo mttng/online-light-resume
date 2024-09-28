@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a mechatronics engineer with over 14 years' experience in industrial automation.
+  I'm a mechatronics engineer with over 15 years' experience in industrial automation.
   <br>
   I like to work on challenging projects, independently, or as a team member.
   <br>
@@ -70,12 +70,22 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: left
+        title: KEBA Industrial Automation
+        link: keba.com
+        # link_text: boringcompany.com
+        sub_title: Field application engineer
+        caption: April 2023 - Present (Home office)
+        description: | # this will include new lines to allow paragraphs
+          - Promoting and grow an entirely new French subsidiary
+          
       - layout: left
         title: B&R Automation
         link: br-automation.com
         # link_text: boringcompany.com
         sub_title: Technical Office Manager
-        caption: Feb 2018 - Present (Nantes)
+        caption: Feb 2018 - April 2023
         description: | # this will include new lines to allow paragraphs
             - Lead up to 6 local application & support engineers in Nantes office.
             - Plan & prioritize technical actions while making sure my team members have enough skills to succeed.
