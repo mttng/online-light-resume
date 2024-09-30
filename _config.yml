@@ -158,7 +158,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Sports (Running, Mountain Bike, SUP)
+      - Sports (Triathlon, SUP)
       <br>
       - Music (Concert, Festival)
       <br>
